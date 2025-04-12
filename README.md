@@ -34,3 +34,5 @@ Create, list, and complete tasks using a lightweight in-memory CLI interface.
 ```bash
 git clone https://github.com/yourusername/go-task-manager.git
 cd go-task-manager
+
+go run main.go
